@@ -1,1 +1,1 @@
-# osu-taiko_Skins
+osu!taikoの譜面のスキン
